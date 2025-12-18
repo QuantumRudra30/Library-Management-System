@@ -1,0 +1,2 @@
+101|Data Structures|Mark Weiss|0
+102|C++ Programming|Bjarane Stroustrup|0
